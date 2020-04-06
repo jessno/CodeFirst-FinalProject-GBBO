@@ -1,0 +1,115 @@
+body{
+    color: black;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    background-color: #FDDDE4;
+    align-content: center;
+}
+
+h1{
+    font-family: 'Lily Script One', cursive;
+    font-size: 80px;
+    text-shadow:    3px 3px white;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+p{
+    font-size: 20px;
+    padding: 20px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+form{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+header{
+    background-image: url(../img/pinata-cupcakes-overhead-2.jpg);
+    padding: 60px;
+    color:  rgb(255, 25, 102);
+}
+
+nav{
+    background-color: rgb(255, 25, 102);
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+a{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer{
+    background-color: rgb(255, 25, 102);
+    color:  white;
+    padding: 20px;
+}
+
+img{
+    padding: 10px;
+    align-content: center;
+}
+
+li{
+    align-content: center;
+}
+
+.recipeTitle{
+    font-family: 'Homemade Apple', cursive;
+    font-weight: lighter;
+    padding: 20px;
+}
+
+.container{
+    text-align: left;
+    padding: 20px;
+}
+
+h4{
+    font-weight: bold;
+}
+
+.subheader{
+    padding: 20px;
+}
+
+h3{
+    font-weight: bold;
+}
+
+.recipeMain{
+    padding: 30px;
+}
+
+.recipeLink{
+    color: black;
+    font-size: 24px;
+}
+
+h6{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+h6,.cposition{
+    position: relative;
+    right:-200px;
+}
+
+.cposition{
+    font-size: 14px;
+    color: black;
+}
